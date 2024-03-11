@@ -1,7 +1,7 @@
 # LIVE SITE
 🔗 Live version of this site is available <a href="https://anirbansen-weatherapp.netlify.app/" target="_blank">here</a>
 
-# FitTrack
+# WeatherApp
 WeatherApp || A Weather predictor
 
 
@@ -13,6 +13,9 @@ WeatherApp || A Weather predictor
 👉 Integrated country flag display for selected locations .
 
 👉 Integrated third-party weather API for real-time data .
+
+# IMAGES
+📸 ![img-1](./image-1.png)
 
 
  # Getting Started with Create React App
