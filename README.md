@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# LIVE SITE
+🔗 Live version of this site is available <a href="https://anirbansen-weatherapp.netlify.app/" target="_blank">here</a>
+
+# FitTrack
+WeatherApp || A Weather predictor
+
+
+# FEATURES
+👉 Developed a ReactJS web app for 7-day weather forecasts . 
+
+👉 Enabled users to input location names for weather predictions . 
+
+👉 Integrated country flag display for selected locations .
+
+👉 Integrated third-party weather API for real-time data .
+
+
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
